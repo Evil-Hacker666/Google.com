@@ -21,3 +21,7 @@
 [WhatsApp][6]
 
 [6]: web.whatsapp.com
+
+[Chrome][7]
+
+[7]: chrome://chrome-signin/
